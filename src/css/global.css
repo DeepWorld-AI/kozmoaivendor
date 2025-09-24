@@ -1,0 +1,5 @@
+@property --border-angle {
+  inherits: false;
+  initial-value: 100deg;
+  syntax: "<angle>";
+}
